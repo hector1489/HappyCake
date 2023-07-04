@@ -6,7 +6,7 @@ const Header= () => {
     <>
       <Navbar className='navbar'>
         <Container className='justify-content-start'>
-          <Link to="/home" className="text-white ms-3 text-decoration-none">
+          <Link to="/" className="text-white ms-3 text-decoration-none">
           🏠 Home
           </Link>
           <Link to="/contacto" className="text-white ms-3 text-decoration-none">
