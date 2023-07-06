@@ -1,5 +1,4 @@
 import { Container } from 'react-bootstrap'
-
 import Form from '../components/Form'
 
 const Contacto = () => {

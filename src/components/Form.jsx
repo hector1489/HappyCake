@@ -1,6 +1,6 @@
 import { Form, Button } from 'react-bootstrap'
 
-const Prices = () => {
+const Formulario = () => {
   return (
     <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">
@@ -20,4 +20,4 @@ const Prices = () => {
 
 }
 
-export default Prices
+export default Formulario
